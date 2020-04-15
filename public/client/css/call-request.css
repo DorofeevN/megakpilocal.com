@@ -1,0 +1,20 @@
+.call-request {
+    position: fixed;
+    bottom: 15px;
+    left: 15px;
+    height: 40px;
+    width: 40px;
+    background: #6DC82B;
+    z-index: 99999;
+    cursor: pointer;
+    border-radius: 50%;
+}
+.call-request .fa {
+    color: white;
+    font-size: 25px;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+/*.call-request hover{*/
+    /*background: #F02B31;*/
+/*}*/
